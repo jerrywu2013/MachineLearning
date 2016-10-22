@@ -1,4 +1,4 @@
-# Scikit-Learn
+# K-means
 ```
 from sklearn import datasets
 from sklearn.cluster import KMeans
