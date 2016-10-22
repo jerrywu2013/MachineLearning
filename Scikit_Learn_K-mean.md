@@ -1,4 +1,4 @@
-# MachineLearning
+# Scikit-Learn
 ```
 from sklearn import datasets
 from sklearn.cluster import KMeans
