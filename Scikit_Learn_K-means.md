@@ -1,5 +1,7 @@
 # K-means
 ```
+sudo apt install -y python-dev python-pip python-nose gcc g++ git gfortran vim
+sudo apt install -y libopenblas-dev liblapack-dev libatlas-base-dev
 apt install build-essential
 apt install python-dev
 pip install numpy
