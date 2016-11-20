@@ -1,7 +1,9 @@
 # K-means
 ```
-sudo pip install -U scikit-learn
-sudo pip install numpy
+apt install build-essential
+apt install python-dev
+pip install numpy
+pip install scikit-learn
 ```
 ```
 from sklearn import datasets
