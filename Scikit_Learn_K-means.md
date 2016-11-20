@@ -3,7 +3,7 @@
 apt install build-essential
 apt install python-dev
 pip install numpy
-pip install scikit-learn
+pip install -U scikit-learn
 ```
 ```
 from sklearn import datasets
