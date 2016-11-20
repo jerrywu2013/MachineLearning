@@ -3,6 +3,7 @@
 apt install build-essential
 apt install python-dev
 pip install numpy
+pip install scipy
 pip install -U scikit-learn
 ```
 ```
