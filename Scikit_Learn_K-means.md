@@ -1,5 +1,9 @@
 # K-means
 ```
+sudo pip install -U scikit-learn
+sudo pip install numpy
+```
+```
 from sklearn import datasets
 from sklearn.cluster import KMeans
 import numpy as np
